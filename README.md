@@ -39,7 +39,7 @@ Atuar em posição estratégica na área de Infraestrutura, Redes ou Telecomunic
 ## 🏢 Experiência Profissional
 
 ### 🔹 Especialista em Telecomunicações  
-NAVA – Technology for Business | 2024 – Atual  
+NAVA – Technology for Business | 2024 – 2026  
 
 - Gestão de reparos em circuitos WAN  
 - Troubleshooting em NWB, Datacom e IP ADSL  
