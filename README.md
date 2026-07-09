@@ -11,19 +11,20 @@
 
 ## 🚀 Sobre Mim
 
-Profissional de Tecnologia da Informação com atuação em Infraestrutura, Service Desk, Redes e Telecomunicações. Experiência em Active Directory, Microsoft 365, Windows Server, TCP/IP, DNS, DHCP, virtualização, ITSM, gestão de incidentes e suporte a ambientes corporativos com foco em disponibilidade e SLA. 
+Profissional de Tecnologia da Informação com atuação em Infraestrutura, NOC, Service Desk, Redes e Telecomunicações. Experiência consolidada em monitoramento de ambientes críticos, Active Directory, Microsoft 365, Windows Server, TCP/IP, DNS, DHCP, virtualização, frameworks de ITSM, gestão proativa/reativa de incidentes e suporte corporativo de alta disponibilidade com foco estrito em cumprimento de SLA. 
 
 ---
 
 ## 🏢 Experiência Profissional
 
-### 🔹 Especialista em Telecomunicações  
+### 🔹 Especialista em Telecomunicações (Atuação no NOC)  
 **NAVA – Technology for Business** | Setembro/2024 – Julho/2026.
 
-- Gerenciamento do relacionamento entre clientes, operadoras e equipes técnicas, garantindo comunicação eficiente e acompanhamento dos incidentes até sua resolução.
-- Monitoramento e gestão de incidentes com foco no cumprimento de SLAs, priorização por criticidade e restabelecimento da disponibilidade dos serviços.
-- Diagnóstico inicial de falhas em links dedicados, internet corporativa, redes SIP e Telefonia IP.
-- Atuação direta em ambientes com infraestrutura Huawei, Cisco e interface direta com operadoras de telecomunicações.
+- Atuação direta no NOC (Network Operations Center), realizando o monitoramento proativo e reativo do ambiente de rede de clientes corporativos de grande porte.
+- Identificação, abertura e acompanhamento de chamados técnicos (Trouble Tickets - TTs) e acionamento do tipo *Call Dispatch* junto a parceiros e operadoras fornecedoras (como a Oi).
+- Execução de atividades de *troubleshooting* avançado em conjunto com o cliente para o isolamento e resolução de incidentes complexos de conectividade.
+- Diagnóstico inicial de falhas em links dedicados, circuitos de dados e voz, internet corporativa, redes SIP e Telefonia IP utilizando infraestrutura Huawei e Cisco.
+- Ponto focal de escalonamento, garantindo uma comunicação clara, relatórios de acompanhamento de indicadores e cumprimento de SLAs críticos.
 
 ---
 
@@ -65,7 +66,8 @@ Profissional de Tecnologia da Informação com atuação em Infraestrutura, Serv
 - Microsoft 365 / Office 365 / Exchange Online
 - PowerShell (básico)
 
-**Redes & Telecomunicações**
+**Redes, NOC & Telecomunicações**
+- Monitoramento de Ativos / Abertura de Chamados e TTs
 - TCP/IP / LAN / WAN / VLAN / VPN
 - Links Dedicados / Circuitos de Dados e Voz
 - SIP / Telefonia IP / Fibra Óptica
